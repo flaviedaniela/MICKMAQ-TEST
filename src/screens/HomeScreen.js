@@ -11,7 +11,7 @@ const HomeScreen = () => {
 
       <Button
         onPress={()=>navigation.navigate('ListScreen')}
-        title='GO TO LIst LANGUAGES'  
+        title='GO TO LIst LANGUAGES.'  
       />
 
     </View>
